@@ -1,4 +1,4 @@
-# Google Girl Hackathon Project--Semantic Segmentation of Flood Events using U-Net for Real-Time Flood Hazard Assessment.
+# Project--Semantic Segmentation of Flood Events using U-Net for Real-Time Flood Hazard Assessment.
 ## Data Source
 
 Public images: 
